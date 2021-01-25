@@ -1,0 +1,89 @@
+.d{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    z-index: 2;
+/*    position: absolute;*/
+    
+}
+.b{
+/*    position: absolute;*/
+    z-index:0;
+    margin-left: 500px;
+}
+.a{
+    height: 500px;
+    width: 1300px;
+    border-style: solid;
+    border-color:white;
+    z-index: 2;
+    position: absolute;
+    background-color: rgb(243, 231, 65);
+}
+
+body{
+    background-color:#393E4C;
+}
+
+.b1{
+    position: absolute;
+    margin-top: 530px;
+    margin-left: 200px;
+    background-color: #04fff2;
+    width: 50px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.b1:hover{
+    background-color:#04cdff ;
+    
+}
+
+
+
+.b2{
+    position: absolute;
+    margin-top: 530px;
+    margin-left: 80px;
+    background-color: #ffa500;
+    width: 50px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.b2:hover{
+    background-color: #ffc400;
+}
+
+.b3{
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 480px;
+    background-color: #f08080;
+    width: 50px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.b3:hover{
+    background-color: #f65555;
+}
+.b4{
+    position: absolute;
+    margin-top: 530px;
+    margin-left: 140px;
+    background-color: #7d93e0;
+    width: 50px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.b4:hover{
+    background-color: #3a63f8;
+}
