@@ -87,3 +87,12 @@ body{
 .b4:hover{
     background-color: #3a63f8;
 }
+
+.p1{
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 500px;
+    margin-left: -500px;
+}
